@@ -12,5 +12,5 @@ public class Main {
 		dao.create(new Author("Ivan", "Petrov"));
 		dao.delete(new Author("Ivan", "Sidorow"));
 	}
-
+//Github shota glu4it
 }
