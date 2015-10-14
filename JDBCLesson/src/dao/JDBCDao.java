@@ -31,4 +31,6 @@ public class JDBCDao {
 		ps.execute();
 	}
 	
+	//Yoba eto ty?
+	
 }
